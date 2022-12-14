@@ -52,11 +52,13 @@ body{
     background-color: lightgreen;
 }
 .pieddepage{
-    background-color: lightgray;
+    background-color: grey;
+    color:red;
+    text-align: center;
 }
 
 .slogan{
-    font-size:2em;
+    font: size 1em;
     color:brown;
     font-style: italic;
 }
